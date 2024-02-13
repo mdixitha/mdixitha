@@ -1,4 +1,5 @@
-### Hi there 👋 I am Dixitha Reddy!
+### Hi there 👋 Dixitha Reddy here...
+
 Currently working for Anoma Tech
 
 I'm a self taught Python Developer.
